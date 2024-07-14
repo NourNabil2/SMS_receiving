@@ -8,7 +8,7 @@ Don't forget to star⭐ the repo if you like what you see😉.
 
 | SMS Receiving | 
 |------|
-|<img src="https://media.licdn.com/dms/image/D4D22AQFyVJS0DHMI9w/feedshare-shrink_800/0/1713039458642?e=1716422400&v=beta&t=7iASL5hmNyDO6MAjpHGNiBMspCdQm5aPsMVAs-kbPPQ" width="1000">|
+|<img src="https://github.com/NourNabil2/SMS_receiving/blob/main/image1.jpeg" width="1000">|
 
 # 🎥 Demo
 <img src="https://github.com/NourNabil2/SMS_receiving/blob/main/test/test.gif" width="1080" height="950">
